@@ -2,4 +2,4 @@ This repository provides the data and Python notebooks needed to recreate the an
 
 It containes two files:
   1) Data
-  2) Python notebooks
+  2) Python Notebooks
