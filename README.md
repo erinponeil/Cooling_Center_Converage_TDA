@@ -2,9 +2,9 @@ This repository provides the data and Python notebooks needed to recreate the an
 
 It containes two folders, each with their own subfiles/folders:
   1) **Data**
-      - <ins>Shapefile and Centroid (Landmark) Data:</ins> Contains the Shapefiles for plotting maps, the notebook to find the centroids of census tracts, and the final dataset of landmarks used
-      - <ins>Cooling Center Location (Witness) Data:</ins> Contains the notebook needed to scan OpenStreetMap to collect the latitude and longitude coordinates of cooling centers within a given domain and the final dataset of witnesses used
-      - <ins> HVI Score Data and Shapefile: </ins> Contains the data, notebook and Shapefiles to make the HVI maps seen in the paper
+      - <ins>Shapefile and Centroid (Landmark) Data:</ins> Contains the Shapefiles for plotting maps (from which we created a dataset of landmarks using the .centroid attribute of the Shapely library)
+      - <ins>Cooling Center Location (Witness) Data:</ins> Contains the notebook needed to scan OpenStreetMap to collect the latitude and longitude coordinates of cooling centers within a given domain
+      - <ins> HVI Score Data and Shapefile: </ins> Contains the cleaned demographic data, notebook, and Shapefiles to make the HVI maps seen in the paper
   3) **Python Notebooks**
       - The notebook that creates the witness complex of the two datastes and performs persistent homology
 
