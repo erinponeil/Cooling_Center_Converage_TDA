@@ -8,4 +8,3 @@ It containes two folders, each with their own subfiles/folders:
   3) **Python Notebooks**
       - The notebook that creates the witness complex of the two datastes and performs persistent homology
 
-Note: Users must ensure they have verion **3.1** or later for the *networkx* package
