@@ -1,4 +1,4 @@
-This repository provides the data and Python notebooks needed to recreate the analysis of the coverage of cooling centers in Boston, MA as presented in the paper "Evaluating Holes in Cooling Center Coverage Using Persistent Homology."
+This repository provides the data and Python notebooks needed to recreate the analysis of the coverage of cooling centers in Boston, MA as presented in the paper "Evaluating Holes in Cooling Center Coverage Using Persistent Homology of a Filtered Witness Complex."
 
 It containes two folders, each with their own subfiles/folders:
   1) **Data**
