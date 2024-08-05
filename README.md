@@ -6,5 +6,5 @@ It containes two folders, each with their own subfiles/folders:
       - <ins>Cooling Center Location (Witness) Data:</ins> Contains the notebook needed to scan OpenStreetMap to collect the latitude and longitude coordinates of cooling centers within a given domain
       - <ins> HVI Score Data and Shapefile: </ins> Contains the cleaned demographic data, notebook, and Shapefiles to make the HVI maps seen in the paper
   3) **Python Notebooks**
-      - The notebook that creates the witness complex of the two datastes and performs persistent homology
+      - The notebook that creates the witness complex and performs persistent homology
 
